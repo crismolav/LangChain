@@ -15,7 +15,7 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/langchain-project.git
+   git clone https://github.com/crismolav/langchain-project.git
    ```
 2. Navigate to the project directory:
    ```bash
